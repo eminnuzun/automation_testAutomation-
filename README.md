@@ -38,7 +38,7 @@ README.md
 1. Bu projeyi GitHub'dan klonlayın:
 
    ```bash
-   git clone https://github.com/kullaniciAdi/automation_testAutomation.git
+   git clone https://github.com/eminnuzun/automation_testAutomation-.git
    cd automation_testAutomation
    ```
 
